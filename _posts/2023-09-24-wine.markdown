@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Wine Wizardry"
+date:   2023-07-28 16:07:48 -0500
+categories: projects
+tags: [GitHub, Project, Showcase]
+description: "Wine Wizardry merges wine art with data, unveiling viticulture insights through ensemble learning."
+excerpt: "Wine Wizardry melds wine artistry with data analytics, unearthing viticulture insights through ensemble learning and dynamic visuals."
+github: https://github.com/DonalMoloney/Wine-Wizardry.git
+show_buttons: true
+---
+![Dionysus ](/images/dionysus.jpg)
+## Overview
+
+"Wine Wizardry" fuses wine's artistry with data analysis, uncovering the Wine dataset's secrets. From preprocessing to interpretability, the project explores viticulture's science using ensemble learning and interactive visualizations. It celebrates the truth in wine and data's complexity.

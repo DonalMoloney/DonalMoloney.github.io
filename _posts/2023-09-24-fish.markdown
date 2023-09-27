@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Fish Species Classifier"
+categories: projects
+tags: [GitHub, Project, Showcase]
+description: "Using advanced analytics on a fish market dataset, this project employs the Random Forest Classifier to classify species, offering insights for marine conservation and aquatic biodiversity management."
+excerpt: In "Fish Species Classifier," we employ advanced data analytics and machine learning to categorize fish species from a curated dataset. This project contributes to marine biology and fisheries management by combining data inspection, feature synthesis, visualization, Random Forest machine learning, cross-validation, hyperparameter tuning, and comprehensive model assessment. Join us on this analytical journey into aquatic biodiversity.
+github: https://github.com/DonalMoloney/Fish.git
+show_buttons: true
+---
+![Fish ](/images/fish.jpg)
+## Overview
+
+This is a comprehensive exploration of fish species classification using advanced data analytics and machine learning techniques. This project delves into a meticulously curated dataset derived from a fish market to categorize and gain insights into various fish species. Beyond its scientific significance in marine biology and aquatic ecology, this endeavor aims to provide practical tools for sustainable fisheries management and conservation efforts.
+
+The project's key objectives encompass a thorough examination of the dataset, the creation of advanced features such as the Body Mass Index (BMI) for fishes, and the application of advanced data visualization techniques to uncover patterns and relationships. The primary predictive tool employed is the Random Forest Classifier, trained, validated, and fine-tuned rigorously. Model reliability is assessed through k-fold cross-validation, and hyperparameter optimization is performed using GridSearchCV. The project concludes with a comprehensive model assessment, focusing on precision, recall, F1-score, and a confusion matrix for in-depth performance evaluation.
+
+Join us on this analytical journey to explore the depths of fish species classification and contribute to the understanding and management of aquatic biodiversity.
+
+
